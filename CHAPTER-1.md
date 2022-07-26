@@ -12,3 +12,4 @@ Computers are no different. There are systems in place, abstracted away, to help
 
 ![Levels of Abstraction, Computing](https://github.com/joehawkens/computing/blob/main/IMAGES/abstraction.JPG)
 
+The reason Abstraction is set as this chapter's heading is because once you understand Abstraction, you can better understand your purpose as a Software Engineer. When you're programming and you run into problems, digging deeper into the levels of abstraction gives you a more comprehensive understanding of how your software works and the best way to optimize it, further improving your problem solving skills.
