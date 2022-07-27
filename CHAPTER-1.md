@@ -8,7 +8,7 @@ Abstraction is a concept that allows complexity to be simplified. A great exampl
 ![Example of Abstraction, Getting water from a sink](https://github.com/joehawkens/computing/blob/main/IMAGES/Water.PNG)
 
 
-Computers are no different. There are systems in place, abstracted away, to help create a better experience for us at the end of the line. The levels of Abstraction for computers can be viewed here in the diagram below. The headings for each level of abstraction are specialties that overlap with each other, for example: Physics overlaps with Electrical Engineering (EE), as a basic understanding of Physics is necessary to understand the properties of electricity and integrate them into circuitry. And Computer Engineers need a solid foundation in EE to properly piece together hardware for efficient computers. Software Engineers should understand how data is formed within a computer's hardware to know how their software is affected. Each level builds on one another.
+Computers are no different. There are systems in place, abstracted away, to help create a better experience for us at the end of the line. The levels of Abstraction for computers can be viewed here in the diagram below. The headings for each level of abstraction are specialties that overlap with each other, for example Computer Engineers need a solid understanding of Electrical Engineering to piece together hardware and make computer systems, Software Engineers need to understand computer hardward to better understand the software their create and how it's directly influenced by the hardware.
 
 ![Levels of Abstraction, Computing](https://github.com/joehawkens/computing/blob/main/IMAGES/abstraction.JPG)
 
