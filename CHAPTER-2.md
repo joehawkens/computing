@@ -6,7 +6,9 @@ That being said, the bare minimum you need to know to understand how Electricity
 
 ## Where does Electricity come from?
 
-Most countries have some form of a grid system that distrbutes electricity to the public. It all begins with how the energy is generated (Solar, Wind, Nuclear, etc.) - then this power is converted into Electrical energy. Once converted, it's voltage is amped up at the plant where it was produced (to increase efficiency in transport) and travels to cities and towns where there are transformers that lower the voltage and safely distribute it among homes. It's important to remember that at the beginnning of this process, the high voltage produced from plants can't immediately be distributed to the public. The raw high voltage would fry any home appliances, hence why there are transformers to lower the voltage to an appropriate level before distribution to consumer's homes.
+Most countries have some form of a grid system that distrbutes electricity to the public. It all begins with how the energy is generated (Solar, Wind, Nuclear, etc.) - then this power is converted into Electrical energy. Once converted, it's voltage is amped up at the plant where it was produced (to increase efficiency in transport) and travels to cities and towns where there are transformers that lower the voltage and safely distribute it among homes. It's important to remember that at the beginnning of this process, the high voltage produced from plants can't immediately be distributed to the public. The raw high voltage would fry any home appliances, hence why there are transformers to lower the voltage to an appropriate level before distribution to consumer's homes
+
+![Where electricity comes from](https://github.com/joehawkens/computing/blob/main/IMAGES/Electricity.JPG)
 
 ## How is Electricity transferred into a computer?
 
