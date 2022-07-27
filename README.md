@@ -5,7 +5,7 @@ The purpose of this tutorial is to teach you how computers work by understanding
 The tutorial will be cut into 5 chapters. After this overview, it will cover the principle of Abstraction and the fields of specialty within each level, following that it will dive into each speciality individually. Special knowledge about each level will carry over to the next and end at chapter 5 where all critical concepts needed for a comprehensive understanding are woven together to give Software Engineers a better knowledge of the systems they work with and, in turn, help them make better software themselves.
 
 * [Chapter 1: Abstraction - Levels of Abstraction + Fields of Specialization](https://github.com/joehawkens/computing/blob/main/CHAPTER-1.md)
-* Chapter 2: Physics - Electricity
+* [Chapter 2: Physics - Electricity](https://github.com/joehawkens/computing/blob/main/CHAPTER-2.md)
 * Chapter 3: Electrical Engineering
 * Chapter 4: Computer Engineering
 * Chapter 5: Software Engineering
