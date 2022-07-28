@@ -24,10 +24,15 @@ In a traditional desktop computer there are usually 6 components that work toget
 
 ## Organization
 
-From last chapter we left off with the Power Supply, we know it gives electricity to the computer and converts the AC power from the wall to DC. This power supply is plugged in directly to the Motherboard. The Motheerboard is epicenter of communication between all components of the computer, it's used as a bridge connecting everything together. If the RAM component wants to communicate with the Hard Drive component, they do so through the Motherboard.
+From last chapter we left off with the Power Supply, we know it gives electricity to the computer and converts the AC power from the wall to DC. This power supply is plugged in directly to the Motherboard. The Motheerboard is epicenter of communication between all components of the computer, it's used as a bridge connecting everything together. For instance, if the RAM component wants to communicate with the Hard Drive component they do so through the Motherboard.
 
 ## Processing
 
-The next component is the Central Processing Unit (CPU), which is found ON the Motherboard. This processes tasks and instructions from every component in the computer - much like how the Motherboard is the epicenter of connecting components physically, the CPU is what processes actions done by ALL components - for example: you save a file on your computer, the action is processed on the CPU, and the CPU communicates with the Hard Drive for long-term storage. Anything action your computer does goes through the CPU.
+The next component is the Central Processing Unit (CPU), which is found ON the Motherboard. This processes tasks and instructions from every component in the computer - much like how the Motherboard is the epicenter of connecting components physically, the CPU is what processes actions done by ALL components - for example: you save a file on your computer, the action is processed on the CPU, and the CPU communicates with the Hard Drive for long-term storage. Anything action or instruction your computer carries out is PROCESSED through the CPU.
 
-The Graphics Card
+The Graphics Card is a tricky component.
+
+
+## Storage
+
+Computers can be simplified down to a simple input/output concept. You input something in the computer, there's some sort of processing, and the computer responds with an output. These data points of input/output much of the time need to be stored while they're being used and while they are not being used, that is where storage comes in: If you want to do the calculation 1 + 1 on your computer, your computer first needs space to store the "1" and "+". Because you're using it in that moment, it's stored in Random Access Memory, a temporary storage location for files being currently used. But say you want to save the output of that calculation: "2" for tomorrow, where would you store it? The answer is in the long-term memory storage component of the computer: the hard drive. When you turn your computer off, the data is safely stored in this hard drive, later to be accessed (by RAM) later.
