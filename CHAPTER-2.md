@@ -1,8 +1,6 @@
 # Chapter 2: Electricity
 
-This will be the shortest chapter because although Physics has its place in computing, knowing how Electricity behaves and contributes to the overall system of a computer is of little help to a Software Engineer, unless you're designing sophisticated weapons of mass destruction or rockets for NASA with a low-level language, but even then, you're dipping into the scope of Computer and Electrical Engineering if you did. Why do I say Physics? Because Electricity is studied in many different branches of science, however, the one branch of science that's responsible for understanding electricity as a concept is Physics, hence why the hiearachy of Abstraction begins with "Physics".
-
-That being said, the bare minimum you need to know to understand how Electricity fits into the big picture is the way it is transferred into a computer. Electricity is the blood of the machine, knowing where it comes from and its function inside of a computer is basic knowledge every Software Engineer should have.
+Electricity is the blood of a computer system, providing life to all of its internal structure, hence why it's important to understand its functions inside of a computer.
 
 ## Where does Electricity come from?
 
@@ -16,6 +14,6 @@ When you plug your computer into the wall, you're actually plugging in something
 
 ## Chapter 2 Summary:
 
-To summarize: Electricity comes from a grid system created by Electrical Engineers. The power is generated, converted, transported, and distributed to the general public. Once this electricity reaches your home it is then processed by a Power Supply Unit (PSU) connected to your computer - which further converts the electricity to be useable within your hardware, giving your computer life.
+To summarize: Electricity comes from a grid system created by Electrical Engineers. The power is generated, converted, transported, and distributed to the general public. Once this electricity reaches your home it is then processed by a Power Supply Unit (PSU) connected to your computer - which further converts the electricity to  allow compatibility within your hardware, giving your computer life (power).
 
 
