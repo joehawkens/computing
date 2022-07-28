@@ -30,7 +30,7 @@ From last chapter we left off with the Power Supply, we know it gives electricit
 
 The next component is the Central Processing Unit (CPU), which is found ON the Motherboard. This processes tasks and instructions from every component in the computer - much like how the Motherboard is the epicenter of connecting components physically, the CPU is what processes actions done by ALL components - for example: you save a file on your computer, the action is processed on the CPU, and the CPU communicates with the Hard Drive for long-term storage. Anything action or instruction your computer carries out is PROCESSED through the CPU.
 
-The Graphics Card is a tricky component.
+The Graphics Card is a tricky component. This is because it's essentially a computer itself. It contains a GPU (Graphical Processing Unit) - what the GPU is to the Graphics Card the CPU is to the computer. The Graphics Card contains thousands of cores, which are essentially mini calculators, with the sole function of processing graphics on your screen; this makes videos and other complicated visuals on screen more easily processed. If you left out the Graphics Card, you wouldn't be able to play video games, watch movies or videos, or do anything that uses heavy graphics. The graphics card's purpose is to process complicated visuals. The CPU could technically do this, but it's already processing huge loads of information already, hence why the graphics Card is a necessary component to include in your hardware.
 
 
 ## Storage
