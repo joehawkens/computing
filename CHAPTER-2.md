@@ -1,4 +1,4 @@
-# Chapter 2: Physics - Electricity
+# Chapter 2: Electricity
 
 This will be the shortest chapter because although Physics has its place in computing, knowing how Electricity behaves and contributes to the overall system of a computer is of little help to a Software Engineer, unless you're designing sophisticated weapons of mass destruction or rockets for NASA with a low-level language, but even then, you're dipping into the scope of Computer and Electrical Engineering if you did. Why do I say Physics? Because Electricity is studied in many different branches of science, however, the one branch of science that's responsible for understanding electricity as a concept is Physics, hence why the hiearachy of Abstraction begins with "Physics".
 
