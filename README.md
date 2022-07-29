@@ -9,4 +9,4 @@ The tutorial aims to cover a wide range of topics, and although it hopes to cove
 * [Chapter 1: Abstraction](https://github.com/joehawkens/computing/blob/main/CHAPTER-1.md)
 * [Chapter 2: Electrical Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-2.md)
 * [Chapter 3: Computer Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-3.md)
-* Chapter 4: Software Engineering
+* [Chapter 4: Software Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-4.md)
