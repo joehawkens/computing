@@ -17,3 +17,7 @@ Elecricity --> (CPU Structure -        Logic Gates/Transitors (CPU) --> Machine 
 P Language --> Compiler --> Machine Code --> CPU
 
 Assembly Language --> Assembler --> Machine Code
+
+
+
+Binary --> Hexadecimal (Condensed binary)
