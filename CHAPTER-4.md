@@ -1,6 +1,10 @@
 # Software Engineering
 
-At the beginning of this tutorial I stated that I wouldn't be covering everything computers have to offer because of the sheer volume of information available, and because I only wanted to focus on relevant information for Software Engineers - I did this last chapter with computer engineering, the field has plentiful more to offer than just 6 components, each component individually has several layers of abstraction.
+So the computer has recieved power from the elctrical grid, all computer hardware is running, so where does software begin to peak its head in this process?
+
+
+
+
 
 
 Registers = the RAM of the CPU (temporary data storage for processing)
