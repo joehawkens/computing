@@ -1,7 +1,16 @@
 # Software Engineering
 
-So the computer has recieved power from the elctrical grid, all computer hardware is running, so where does software begin to peak its head in this process?
+So the computer has recieved power from the elctrical grid, all computer hardware is running, so where does software begin to peak its head in this process? I didn't cover it in the last chapter, but the CPU processes data with something called "Machine Code" - this is the language used by all computers everywhere (Phones, Desktops, Spaceships) - you name it, if it's a computer, it runs Machine Code or Machine Language. These are the 1's and 0's used in the movies when hackers or computer nerds are featured on screen. 
 
+
+
+Order:
+
+- Machine Language
+- Assembler
+- Assembly
+- Compiler
+- High-level languages (Python, C++, Java)
 
 
 
