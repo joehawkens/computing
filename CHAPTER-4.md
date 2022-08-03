@@ -9,6 +9,8 @@ Order:
 - Machine Language
 - Assembler
 - Assembly
+
+- Machine Language
 - Compiler
 - High-level languages (Python, C++, Java)
 
