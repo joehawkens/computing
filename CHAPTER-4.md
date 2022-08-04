@@ -23,7 +23,7 @@ Registers = the RAM of the CPU (temporary data storage for processing)
 
 Elecricity --> (CPU Structure -        Logic Gates/Transitors (CPU) --> Machine Code (CPU)       ) --> Assembly Language --> Programming Languages
 
-* The closer you are to the hardware, the more you'll have access to manipulating it.
+* The closer you are to the hardware, the more you'll have access to manipulating it. Software is on the outside shell.
 
 
 (Compilers translate language to machine code)
