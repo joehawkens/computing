@@ -2,7 +2,7 @@
 
 So the computer has recieved power from the elctrical grid, all computer hardware is running, so where does software begin to peak its head in this process? I didn't cover it in the last chapter, but the CPU processes data with something called "Machine Code" - this is the language used by all computers everywhere (Phones, Desktops, Spaceships) - you name it, if it's a computer, it runs Machine Code or Machine Language. These are the 1's and 0's used in the movies when hackers or computer nerds are featured on screen.
 
-Originally, scientists would program everything in Machine Code - when people started to get tired of having to program in binary (1001010101010110) - they came up with methods that streamlined the process, ushering in the first high-level, or human-readable, languages. Assembly is one of these
+Originally, scientists would program everything in Machine Code - when people started to get tired of having to program in binary (1001010101010110) - they came up with methods that streamlined the process - this is where Assembly language came in. Assembly allowed for human-readable code.
 
 
 
