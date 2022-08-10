@@ -9,7 +9,7 @@ Originally, scientists would program everything in Machine Code - when people st
 Order:
 
 - Machine Language
-- Assembler
+- Disassembler
 - Assembly
 
 - Machine Language
