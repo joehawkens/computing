@@ -6,3 +6,5 @@ However, in order for humans to interact with these machines they needed to unde
 
 
 ## Assembly Language
+
+I'll be giving an example of Assembly code to showcase how the first programming language was used and understood.
