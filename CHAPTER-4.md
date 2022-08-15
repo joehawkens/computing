@@ -4,7 +4,6 @@ So the computer has recieved power from the elctrical grid, all computer hardwar
 
 However, in order for humans to interact with these machines they needed to understand the language of the machine (Binary). As one could guess, this quickly led to frustration for many early programmers writing everything in machine code, which consisted of entirely 1's and 0's (ex: 0110101010). To combat this problem, researchers developed another language which allowed for easier reading - Assembly Language.
 
-
+## Logic Gates
+## Microcode / Firmware
 ## Assembly Language
-
-I'll be giving an example of Assembly code to showcase how the first programming language was used and understood.
