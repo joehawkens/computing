@@ -7,3 +7,6 @@ However, in order for humans to interact with these machines they needed to unde
 ## Logic Gates
 ## Microcode / Firmware
 ## Assembly Language
+
+
+## COmputer Memory
