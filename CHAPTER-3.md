@@ -38,6 +38,10 @@ The Graphics Card is a tricky component. This is because it's essentially a comp
 Computers can be simplified down to a simple input/output concept. You input something in the computer, there's some sort of processing, and the computer responds with an output. These data points of input/output much of the time need to be stored while they're being used and while they are not being used, that is where storage comes in: If you want to do the calculation 1 + 1 on your computer, your computer first needs space to store the "1" and "+". Because you're using it in that moment, it's stored in Random Access Memory, a temporary storage location for files being currently used. But say you want to save the output of that calculation: "2" for tomorrow, where would you store it? The answer is in the long-term memory storage component of the computer: the hard drive. When you turn your computer off, the data is safely stored in this hard drive, later to be accessed (by RAM) later.
 
 
+## The Bridge Between Hardware and Software
+
+When does computer hardware become software? The answer could become long and take us down many concepts, but for the sake of brevity - it comes from a few things: Microcode and Firmware. Microcode is Software that's made into the Hardware - specifically the CPU.
+
 ## Chapter 3: Summary
 
 Power is gained through the power supply unit. This is connected to the Motherboard. The Motherboard physically connects all computer components together, the CPU, which is found on the Motherboard, performs all of the computer's tasks and operations. The Graphics Card takes care of operations having to do with complex visuals on screen such as video games or movies. This is all done in real-time through Random Access Memory, which acts as a short-term storage area for manipulating data. If a user wants to save data for later without losing progress, they're able to do that with a Hard Drive.
