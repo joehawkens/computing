@@ -1,5 +1,7 @@
 # Programming Lanugage Paradigms
 
+We've covered computing essentials. At this point you should have a solid understanding of the previous layers of Abstraction and now we will explore more deeply into programming itself.
+
 
 ## Object-Oriented
 
