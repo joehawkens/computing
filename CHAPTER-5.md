@@ -16,4 +16,4 @@ We've covered computing essentials. At this point you should have a solid unders
 
 # Conclusion
 
-In the end, all that matters is that you want a computer to do something - find a way to build it and do it.
+In the end, all that matters is that you want a computer to do something - find a way to build it and do it. Even better - if you want to add value to society by creating something with Software, you can do it. Find a problem and get to work.
