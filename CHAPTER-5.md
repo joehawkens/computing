@@ -1,15 +1,16 @@
 # Programming Lanugage Paradigms
 
-We've covered computing essentials. At this point you should have a solid understanding of the previous layers of Abstraction and now we will explore more deeply into programming itself.
+This chapter aims to dig deeper into programming; we'll be doing this by exploring programming paradigms - what they are, why we have them, and why you should know the difference.
 
 
-## Object-Oriented
 
-## Imperative
 
-## Declarative
 
-## Procedural
+
+
+
+
+
 
 
 
