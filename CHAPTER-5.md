@@ -5,18 +5,19 @@ This chapter aims to dig deeper into programming; we'll be doing this by explori
 
 ## Imperative
 
-Imperative coding is concerned with how something is done. Imagine a 3x3 tic-tac-toe board - your dot is on the top right of the board and you want it to make its way to the bottom left of the board, to do this the imperative way, you'd describe its movements: move two spaces down, two spaces to the left.
+Imperative coding is thinking like a computer - consider the following code:
+
 
 
 ## Declarative
 
-Declarative coding is concerned with what is done. Imagine the same 3x3 tic-tac-toe board - your dot is in the same location. Instead of focusing on how something is done, you're more worried about what is done - so you tell the dot to move 
+Declarative is thinking like a human - consider the following code:
 
+```MySQL
+SELECT * FROM Users WHERE country='USA';
+```
 
-
-
-
-
+## Examples of Declarative and Imperative languages:
 
 
 
