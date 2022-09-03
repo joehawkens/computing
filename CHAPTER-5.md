@@ -9,7 +9,7 @@ The two major paradigms I'll be discussing are Imperative and Declarative progra
 
 ## Imperative
 
-Imperative programming is simply defined as this: If you can trace the execution of the program as it runs. Consider the following code: you know you'll be reading it from top to bottom, the typical way of execution in programing. You're thinking like a computer this way.
+Imperative programming is simply defined as this: If you can trace the execution of the program as it runs, it's imperative. Consider the following code: you know you'll be reading it from top to bottom, the typical way of execution in programing. You're thinking like a computer this way.
 
 ```Python
 counter = 0
