@@ -26,7 +26,7 @@ while counter != 10:
 
 ## Declarative
 
-Declarative is the reverse; you're thinking like a human, and can't always trace execution. You merely DECLARE what you want done, in the example below: you use different command clauses in SQL, you tell the computer what you're referencing (container) in CSS. And you DECLARE to the computer you want a hiearchy of headers and paragraphs in HTML. You don't care about what makes the <h1> tag work, you're only concerned with it getting the job done - in Imperative you're more concered with a deeper level of abstraction - bringing in variables and shifting states.
+Declarative is the reverse; you're thinking like a human, and can't always trace execution. You merely DECLARE what you want done, in the example below: you use different command clauses in SQL, you tell the computer what you're referencing (container) in CSS. And you DECLARE to the computer you want a hiearchy of headers and paragraphs in HTML. You don't care about what makes the '<h1>' tag work, you're only concerned with it getting the job done - in Imperative you're more concered with a deeper level of abstraction - bringing in variables and shifting states.
 
 ```MySQL
 SELECT * FROM Users WHERE country='USA';
