@@ -2,7 +2,7 @@
 
 This chapter aims to dig deeper into programming; we'll be doing this by exploring programming paradigms. A programming paradigm is a way to classify languages. The reason for doing this is to help label their features in order to know which ones would fit the needs of a project. If we compare programming languages to tools in a toolbox, you will know that some tools are better suited than others for problems, for example: you wouldn't use a hammer to paint wall, much like you wouldn't use MySQL to build a gaming engine, since MySQL is a database language and not suited for that level of complexity, i.e. it's not the right tool for the job, so we have paradigms to help us classify these languages so we can understand their features and know what tools (tech stack) are best suited to complete a project.
 
-The two major paradigms I'll be discussing are Imperative and Declarative programming.
+The two major paradigms I'll be discussing are Imperative and Declarative programming - each major paradigm has sub-paradigms that further classify and label languages, such as Object-Oriented Programming (OOP).
 
 
 
@@ -44,11 +44,11 @@ SELECT * FROM Users WHERE country='USA';
  <h1>
  ```
 
-### Important note regarding Programming Paradigms:
+### Important note regarding Imperative and Declarative:
 
 There is a lot of controversy online of what makes something Declarative and something Imperative, since the only difference is abstraction - the line is blurred so much that one should view paradigms as a spectrum measuring human readability rather than distinct categories of one or the other. For example: when writing a loop in Python code, how a variable is able to be declared is of no immediate concern to you, it has been abstracted away, and therefore could technically be considered declarative since it's more human-readable code.
 
-## Examples of Imperative languages:
+### Examples of Imperative languages:
    
    * C++
    * Assembly Language
@@ -56,11 +56,28 @@ There is a lot of controversy online of what makes something Declarative and som
    * JavaScript
    * Java
 
-## Examples of Declarative languages:
+### Examples of Declarative languages:
    
    * MySQL
    * HTML
    * CSS
+
+
+## Further sub-paradigms:
+
+
+### Object-Oriented Programming
+
+A subcategory of the Imperative paradigm, an object is a single abstract entity which contains many points of data, methods, and functions. In OOP the fundamental concept underlying this paradigm is the relationship objects have to one another. It's very heavily used within game development since characters, items in game, and environments constitute as objects. OOP has reigned the supreme paradigm for many years now, but recently there has been much discussion on branching to other paradigms such as functional programming.
+
+### Functional Programming
+
+A subcategory of the declarative paradigm, functional programming uses purely function to have strict control flow and less side-effects gained from extra logical operations found in imperative programming. It's a very streamlined paradigm that has gained a lot of favor in recent years due to its simplicity and ease of implementation.
+
+
+### Procedural Programming
+
+This sub-paradigm is what the name entails - it follows procedure, code is executed from top to bottom. But one may ask: "Wait, isn't that how most languages run anyway?" - You'd be correct, yes, which is why a lot of languages can fall under the category of multiple paradigms, like C++ - it's both an Object-Oriented language and a Procedural language - think of a warehouse full of construction equipment and tools. There are some tools which are drastically different: a paint brush and a hammer, but there are other tools that can overlap with one another and require to be put in the same category with each other - like how a chainsaw and a table saw both cut, but have different specialized utility based on their shape and form.
    
 
 
