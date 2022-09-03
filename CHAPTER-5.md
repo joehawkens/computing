@@ -1,6 +1,6 @@
 # Programming Lanugage Paradigms
 
-This chapter aims to dig deeper into programming; we'll be doing this by exploring programming paradigms - what they are, why we have them, and why you should know the difference. The most widley used paradigms you'll most likely encounter in industry are Imperative and Declarative:
+This chapter aims to dig deeper into programming; we'll be doing this by exploring programming paradigms. A programming paradigm is a way to classify languages. The reason for doing this is to better understand the languages as tools, which can be utilized appropriately for the right problems. The most widley used paradigms you'll most likely encounter in industry are Imperative and Declarative:
 
 
 ## Imperative
@@ -20,6 +20,7 @@ SELECT * FROM Users WHERE country='USA';
 .container{
   color: green;
  }
+ ```
  ```HTML
  <h1>
       <h2>
