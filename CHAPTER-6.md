@@ -13,7 +13,7 @@ Now that we know the core principles of Software Engineering - it's time for app
     - Look for problem previously solved by someone online (Stack Overflow)
 3. Plan a Solution
     - Write Psuedocode
-    - Write Test (Prevent Regression)
+    - Write Tests (Prevent Regression)
 4. Implementation
     - "Done is better than perfect"
 5. Optimization
