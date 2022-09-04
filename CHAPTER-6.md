@@ -7,16 +7,16 @@ Now that we know the core principles of Software Engineering - it's time for app
     - Context
     - Issue
     - Reason for Solving
-3. Research 
+2. Research 
     - Read Documentation
     - Discuss with Teammates
     - Look for problem previously solved by someone online (Stack Overflow)
-5. Plan a Solution
+3. Plan a Solution
     - Write Psuedocode
     - Write Test (Prevent Regression)
-7. Implementation
+4. Implementation
     - "Done is better than perfect"
-9. Optimization
+5. Optimization
     - Improve Readability
     - Add Comments
     - Remove Duplication
