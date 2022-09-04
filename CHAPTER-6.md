@@ -24,11 +24,17 @@ Now that we know the core principles of Software Engineering - it's time for app
     - Add error handling
 ```
 
-Let's start out with a problem so we can know firsthand how to approach it with these steps.
-
-**PROBLEM:**
-
 
 ## Understand the Problem
 
-When you first encounter an issue, it's best to know what you're dealing with - you could go right in and try to solve it outright, but you'll save yourself a lot of time and headache with preperation and understanding.
+Jumping right into an issue without first understanding limitations and context will make things difficult. Take time to truly understand the problem, so you know not only how to solve it, but how to optimize it later. The first step is creating a problem statement: this provides 1. context, 2. the main issue, and 3. The reason for solving, we'll use the following example to use in this framework:
+
+Context: We want to gather data about Earthquakes and other natural disasters from the web and put them on our webpage.
+Issue: Gathering all of that information from multiple sources and updating it will be difficult and time-consuming.
+Reason for solving: If we can fix the issue, we'll save time and money for implementing a solution.
+
+Giving the problem context, identifying the issue, and knowing **why** you're doing something are critical points to make in problem solving. Once this is done you can approach step 2 with greater confidence.
+
+## Research
+
+
