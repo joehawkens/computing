@@ -33,7 +33,7 @@ Jumping right into an issue without first understanding limitations and context 
 * **Issue:** Gathering all of that information from multiple sources and updating it will be difficult and time-consuming.
 * **Reason for solving:** If we can fix the issue, we'll save time and money for implementing a solution.
 
-Giving the problem context, identifying the issue, and knowing **why** you're doing something are critical points to make in problem solving. Once this is done you can approach step 2 with greater confidence.
+Giving the problem context, identifying the issue, and knowing **why** you're doing something are critical because they help to facilitate greater confidence in step two of this process: Research
 
 ## Research
 
