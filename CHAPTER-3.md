@@ -40,7 +40,7 @@ Computers can be simplified down to a simple input/output concept. You input som
 
 ## The Bridge Between Hardware and Software: Firmware
 
-The transition from Hardware to Software is done through "Firmware" - see a pattern with the naming? - Firmware is Software embedded on Hardware.
+The transition from Hardware to Software is done through "Firmware" - We'll discuss this in the next chapter.
 
 ## Chapter 3: Summary
 
