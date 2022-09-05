@@ -37,4 +37,10 @@ Giving the problem context, identifying the issue, and knowing **why** you're do
 
 ## Research
 
+## Plan a Solution
+
+## Implementation
+
+## Optimization
+
 
