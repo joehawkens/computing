@@ -79,9 +79,8 @@ A subcategory of the declarative paradigm, functional programming uses purely fu
 
 This sub-paradigm is what the name entails - it follows procedure, code is executed from top to bottom. But one may ask: "Wait, isn't that how most languages run anyway?" - You'd be correct, yes, which is why a lot of languages can fall under the category of multiple paradigms, like C++ - it's both an Object-Oriented language and a Procedural language - think of a warehouse full of construction equipment and tools. There are some tools which are drastically different: a paint brush and a hammer, but there are other tools that can overlap with one another and require to be put in the same category with each other - like how a chainsaw and a table saw both cut, but have different specialized utility based on their shape and form.
    
+   
 
+## Chapter 5 Summary:
 
-
-# Conclusion
-
-   We have covered essential concepts from the way electricity powers the computer, to the components of a machine, to how hardware turns into software. The goal of this short course was to simplify concepts and help you along the way in creating meaningful software, because in the end that's what it's all about - sure many of these concepts are important, but the most important takeaway is that you create something that provides value and meaning for people. That is the ethos of the Software Engineer. Now go out and create something you love.
+There are many ways to use Software as a tool. In the next chapter we'll discuss an approach methods widely used to solve problems with Software.
