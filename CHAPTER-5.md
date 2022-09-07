@@ -84,4 +84,6 @@ This sub-paradigm is what the name entails - it follows procedure, code is execu
 
 On top of having a paradigm (or paradigms) - languages are either interpreted or compiled. What does this mean? It's simply the means by which your code is translated to the machine code. Interpreted languages are translated instantly to the computer, line by line, allowing you to see errors immediately upon writing. Compilers, which take longer to translate, take the entire file of code all at once for translation into machine code.
 
-Statically vs. Dynamic Typing
+### Type System
+
+
