@@ -19,4 +19,4 @@ Now that the Operating System is installed on the computer - usually through a d
 
 ## What's Next?
 
-Now that an Operating System is in place, we can truly start to use it as a foundation to build programs. We can explore more in-depth the science of Software - different paradigms, design paterns, problem solving, etc. The next few chapters will dive deeper in Software Engineering and go over key concepts to help you gain a comprehensive overview of the discipline.
+Now that an Operating System is in place, we use it as a foundation to build programs. We can explore more in-depth the science of Software - different paradigms, design paterns, problem solving, etc. The next few chapters will dive deeper in Software Engineering and go over key concepts to help you gain a comprehensive overview of the discipline.
