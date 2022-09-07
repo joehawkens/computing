@@ -14,7 +14,9 @@ Once the BIOS communicates with CMOS and recieves the proper information to acti
 
 ## Operating System
 
-Now that the Operating System is installed on the computer - usually through a disk or a thumb drive that's accessed by the BIOS - and stored in the hard drive, it gives us access to the machine and allows us to interface with it in more human-friendly ways, one of which is having a GUI (Graphical User Interface). The operating system also communicates with device drivers - software that allows understanding between devices and the OS - so that they're able to function properly in the OS environment.
+Now that the Operating System is installed on the computer - usually through a disk or a thumb drive that's accessed by the BIOS - and stored in the hard drive, it gives us access to the machine and allows us to interface with it in more human-friendly ways, one of which is having a GUI (Graphical User Interface). The operating system also communicates with device drivers - software that allows understanding between devices and the OS - so that they're able to function properly in the OS environment. The operating system itself are usually written in low/mid-level languages such as C or Assembly.
 
 
+## What's Next?
 
+Now that an Operating System is in place, we can truly start to use it as a foundation to build programs. We can explore more in-depth the science of Software - different paradigms, design paterns, problem solving, etc. The next few chapters will dive deeper in Software Engineering and go over key concepts to help you gain a comprehensive overview of the discipline.
