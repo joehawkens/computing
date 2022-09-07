@@ -9,4 +9,12 @@ The first piece of Firmware that's activated when you press the power button is 
 
 There is another computer chip, called CMOS (Complementary Metal-Oxide Semiconductor) which runs constantly, it holds the BIOS data (Hardware Settings, Bootup Settings, Time+Date). It has a battery in it, so even after you turn off the computer, this chip will still be recieving power, the reason for this is because BIOS chips come with default settings. If you add any customization, which you will since date and time is constantly changing, there's no way to store that information after everything is shutoff, so CMOS is necessary to maintain settings and ensure proper bootup when the computer starts.
 
-Once the BIOS communicates with CMOS and recieves the proper information to activate the hardware, a bootup sequence is initiated and the BIOS transfers its keys and power to the Operating System, the first pure piece of Software.
+Once the BIOS communicates with CMOS and recieves the proper information to activate the hardware, a bootup sequence is initiated and the BIOS transfers its keys and power to the Operating System, the first pure piece of Software - which helps to act as a mediator between the user and the machine.
+
+
+## Operating System
+
+Now that the Operating System is installed on the computer - usually through a disk or a thumb drive that's accessed by the BIOS - and stored in the hard drive, it gives us access to the machine and allows us to interface with it in more human-friendly ways, one of which is having a GUI (Graphical User Interface). The operating system also communicates with device drivers - software that allows understanding between devices and the OS - so that they're able to function properly in the OS environment.
+
+
+
