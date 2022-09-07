@@ -13,5 +13,7 @@ The tutorial aims to cover a wide range of topics, and although it hopes to cove
 * [Chapter 5: Paradigms](https://github.com/joehawkens/computing/blob/main/CHAPTER-5.md)
 * [Chapter 6: Problem Solving](https://github.com/joehawkens/computing/blob/main/CHAPTER-6.md)
 * [Chapter 7: Design Patterns](https://github.com/joehawkens/computing/blob/main/CHAPTER-7.md)
+* [Chapter 8: Data Strucutres and Algorithms](https://github.com/joehawkens/data-structures-tutorial)
+
 
 
