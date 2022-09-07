@@ -1,4 +1,4 @@
-# Programming Lanugage Paradigms
+# Programming Language Paradigms
 
 This chapter aims to dig deeper into programming; we'll be doing this by exploring programming paradigms. A programming paradigm is a way to classify languages. The reason for doing this is to help label their features in order to know which ones would fit the needs of a project. If we compare programming languages to tools in a toolbox, you will know that some tools are better suited than others for problems, for example: you wouldn't use a hammer to paint wall, much like you wouldn't use MySQL to build a gaming engine, since MySQL is a database language and not suited for that level of complexity, i.e. it's not the right tool for the job, so we have paradigms to help us classify these languages so we can understand their features and know what tools (tech stack) are best suited to complete a project.
 
@@ -80,7 +80,8 @@ A subcategory of the declarative paradigm, functional programming uses purely fu
 This sub-paradigm is what the name entails - it follows procedure, code is executed from top to bottom. But one may ask: "Wait, isn't that how most languages run anyway?" - You'd be correct, yes, which is why a lot of languages can fall under the category of multiple paradigms, like C++ - it's both an Object-Oriented language and a Procedural language - think of a warehouse full of construction equipment and tools. There are some tools which are drastically different: a paint brush and a hammer, but there are other tools that can overlap with one another and require to be put in the same category with each other - like how a chainsaw and a table saw both cut, but have different specialized utility based on their shape and form.
    
    
+## How Code Runs
 
-## Chapter 5 Summary:
+On top of having a paradigm (or paradigms) - languages are either interpreted or compiled. What does this mean? It's simply the means by which your code is translated to the machine code. Interpreted languages are translated instantly to the computer, line by line, allowing you to see errors immediately upon writing. Compilers, which take longer to translate, take the entire file of code all at once for translation into machine code.
 
-There are many ways to use Software as a tool. In the next chapter we'll discuss an approach methods widely used to solve problems with Software.
+Statically vs. Dynamic Typing
