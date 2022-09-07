@@ -10,7 +10,8 @@ The tutorial aims to cover a wide range of topics, and although it hopes to cove
 * [Chapter 2: Electrical Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-2.md)
 * [Chapter 3: Computer Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-3.md)
 * [Chapter 4: Software Engineering](https://github.com/joehawkens/computing/blob/main/CHAPTER-4.md)
-* [Chapter 5: Software Engineering 2](https://github.com/joehawkens/computing/blob/main/CHAPTER-5.md)
+* [Chapter 5: Paradigms](https://github.com/joehawkens/computing/blob/main/CHAPTER-5.md)
 * [Chapter 6: Problem Solving](https://github.com/joehawkens/computing/blob/main/CHAPTER-6.md)
+* [Chapter 7: Design Patterns](https://github.com/joehawkens/computing/blob/main/CHAPTER-7.md)
 
 
