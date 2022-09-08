@@ -6,3 +6,4 @@ These are the sources that were referenced to make this tutorial series. A huge 
 * [Compilers and Interpreters](https://www.youtube.com/watch?v=e4ax90XmUBc)
 * [Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Debugging Code](https://www.youtube.com/watch?v=I1f45REi3k4)
+* [Problem Solving](https://www.youtube.com/watch?v=UFc-RPbq8kg)
