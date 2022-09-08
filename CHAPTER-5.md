@@ -116,8 +116,22 @@ int main() {
 }
 ```
 
-Statically typed languages are created this way as a means of safety. Imagine you're creating Software for a nuclear defense missile, you're going to want a this safety net to ensure that everything is correctly defined before you compile, otherwise the consequences could be catastrophic.
+Statically typed languages are created this way as a means of safety. Imagine you're creating Software for a nuclear defense missile, you're going to want a safety net to ensure that everything is correctly defined before you compile, otherwise the consequences could be catastrophic.
 
 
+
+### Weak Typed vs. Strongly Typed
+
+
+
+In conclusion:
+
+WHEN typing is checked - definitive:
+* Static: Types are checked when code is compiled.
+* Dynamic: Types are checked after code is compiled (during runtime).
+
+HOW STRONG typing is enforced - a spectrum:
+* Strong: 
+* Weak:
 
 
