@@ -86,4 +86,19 @@ On top of having a paradigm (or paradigms) - languages are either interpreted or
 
 ### Type System
 
+Each Programming language has a type system, defined as either Strong or Weak - Dynamic or Static. Programmers know what a type is in programming: Bool, String, Int, Double, etc. Let's take a look at these four terms and put them to examples, starting with the dynamic type system:
+
+```Python
+# Python is dynamically typed because it allows reassignment of types throughout the life of the program.
+
+number = 12
+type(number)
+# type: int
+
+...
+
+number = "string"
+type(number)
+# type: int
+```
 
