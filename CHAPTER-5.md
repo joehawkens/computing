@@ -84,21 +84,40 @@ This sub-paradigm is what the name entails - it follows procedure, code is execu
 
 On top of having a paradigm (or paradigms) - languages are either interpreted or compiled. What does this mean? It's simply the means by which your code is translated to the machine code. Interpreted languages are translated instantly to the computer, line by line, allowing you to see errors immediately upon writing. Compilers, which take longer to translate, take the entire file of code all at once for translation into machine code.
 
-### Type System
+## Type System
 
 Each Programming language has a type system, defined as either Strong or Weak - Dynamic or Static. Programmers know what a type is in programming: Bool, String, Int, Double, etc. Let's take a look at these four terms and put them to examples, starting with the dynamic type system:
 
+### Dynamically Typed vs. Statically Typed
+
 ```Python
-# Python is dynamically typed because it allows reassignment of types throughout the life of the program.
+# Python is dynamically typed because it allows type reassignment throughout the life of the program.
 
 number = 12
-type(number)
+print(type(number))
 # type: int
 
 ...
 
 number = "string"
-type(number)
-# type: int
+print(type(number))
+# type: string
 ```
+
+Let's look at a statically typed language: C++
+```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+  int number = 15; // The variable "number" is declared a type of int.
+  
+  number = "number" // If you try to reassign the variable data type, it will throw an error.
+}
+```
+
+Statically typed languages are created this way as a means of safety. Imagine you're creating Software for a nuclear defense missile, you're going to want a this safety net to ensure that everything is correctly defined before you compile, otherwise the consequences could be catastrophic.
+
+
+
 
