@@ -122,6 +122,19 @@ Statically typed languages are created this way as a means of safety. Imagine yo
 
 ### Weak Typed vs. Strongly Typed
 
+A weak typed language is very relaxed on how data types are created. In JavaScript, if you create a string you don't have to explicitly say that it's going to be a string, this is inferred by the language itself...
+
+```JavaScript
+let number = "two";
+```
+
+In a strongly typed language, you must declare your data types. Here's an example in C#...
+
+```C#
+int number = 2;
+```
+
+Notice how you had to declare the the variable "number" was an int.
 
 
 In conclusion:
@@ -131,7 +144,7 @@ WHEN typing is checked - definitive:
 * Dynamic: Types are checked after code is compiled (during runtime).
 
 HOW STRONG typing is enforced - a spectrum:
-* Strong: 
-* Weak:
+* Strong: You need to strictly declare data types.
+* Weak: Data types are inferred when created.
 
 
