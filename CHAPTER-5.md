@@ -112,7 +112,7 @@ using namespace std;
 int main() {
   int number = 15; // The variable "number" is declared a type of int.
   
-  number = "number" // If you try to reassign the variable data type, it will throw an error.
+  str number = "number" // If you try to reassign the variable data type, it will throw an error.
 }
 ```
 
