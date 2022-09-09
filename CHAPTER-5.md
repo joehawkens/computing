@@ -110,7 +110,7 @@ Let's look at a statically typed language: C++
 using namespace std;
 
 int main() {
-  int number = 15 // The variable "number" is declared a type of int.
+  int number = 15; // The variable "number" is declared a type of int.
   
   str number = "number"; // If you try to reassign the variable data type, it will throw an error.
 }
