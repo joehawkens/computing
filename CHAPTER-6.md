@@ -39,6 +39,10 @@ Giving the problem context, identifying the issue, and knowing **why** you're do
 
 Research is simply understanding what tools you'll be using, syntax, documentation, and working with teammates to gather information regarding the problem, this helps to plan a solution.
 
+### Loops
+
+Most code problems will involve some kind of loop. ALWAYS consider if you can implement a function before ever thinking of using a loop, for example: Map(), Filter(), Reduce(). These will carry the workload and make your code a lot cleaner, saving you a heartache.
+
 ## Plan a Solution
 
 Once you know your tools that will help within the scope of the problem you can plan a solution. To begin you can write Pseudocode, or code that lays outs steps to solving the problem. Another consideration to take at this stage is setting up tests. This will help with regression, or, when your program breaks in the future - causing you to go back and figure out what happened, it's best to catch those problems when developing to ensure quality code is created.
